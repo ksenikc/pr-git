@@ -15,6 +15,10 @@ header,footer {
     display: inline-block;
     margin-left: 20px;
 }
+.main-menu ul li a {
+    text-decoration: none;
+    color: #fff;
+}
 footer p {
     text-align: center;
 }
