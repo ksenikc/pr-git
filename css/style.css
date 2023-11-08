@@ -19,6 +19,26 @@ header,footer {
     text-decoration: none;
     color: #fff;
 }
+.top {
+    background-color: #464646;
+    color: #fff;
+    padding-left: 100px;
+}
+h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.top th,td {
+    border: 1px solid white;
+}
+td {
+    width: 270px;
+    padding-left: 5px;
+}
+.top table {
+    border-collapse:collapse ;
+}
 footer p {
     text-align: center;
 }
