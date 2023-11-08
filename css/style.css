@@ -12,6 +12,7 @@ footer {
     color: #fff;
     height: 50px;
     padding-top: 12px;
+    width: 1440px;
 }
 
 .main-menu ul li {
@@ -23,11 +24,9 @@ footer {
     text-decoration: none;
     color: #fff;
 }
-
 .container {
     width: 1440px;
 }
-
 .opisanie ul li {
     margin-left: 22px;
 }
@@ -51,6 +50,7 @@ h2 {
 .subscribe {
     background-color: #464646;
     height: 100px;
+    width: 1440PX;
 }
 
 .subscribe input,
@@ -64,24 +64,25 @@ button {
 }
 
 .banner img {
-    width: 100%;
+    width: 1440PX;
     height: 350px;
 }
 
 .covers {
-    display: flex;
-    margin-left: 140px;
-    margin-bottom: 20px;
+  display: flex;
+ margin-bottom: 20px;
 }
 
-.cover {
+.cover p{
     text-align: center;
-    margin-right: 30px;
 }
-
+.cover {
+    margin-left: 80px;
+}
 .cover img {
-    width: 230px;
-    height: 230px;
+    width: 250px;
+    height: 250px;
+    margin-left: 30px;
 }
 
 .cover p {
@@ -95,6 +96,7 @@ footer p {
     background-color: #464646;
     color: #fff;
     padding-left: 100px;
+    width: 1440px;
 }
 
 h2 {
@@ -113,8 +115,9 @@ td {
     padding-left: 5px;
 }
 
-.top table {
+ table {
     border-collapse: collapse;
+    padding-left: 100px;
 }
 
 footer p {
